@@ -1,0 +1,11 @@
+.env
+/vendor
+/writable
+Composer-Setup.exe
+
+*.htm
+*.html
+fpdf.css
+
+/tests
+/phpunit.xml.dist
