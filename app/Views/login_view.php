@@ -15,7 +15,7 @@
 <!-- TOP BAR -->
 <nav class="navbar navbar-dark bg-primary">
     <div class="container-fluid">
-        <span class="navbar-brand mb-0 h1">🚗 Automatic Car Wash System</span>
+        <span class="navbar-brand mb-0 h1"> Automatic Car Wash System</span>
     </div>
 </nav>
 
