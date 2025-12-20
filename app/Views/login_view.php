@@ -26,7 +26,7 @@
 
             <div class="bg-primary text-white rounded-circle d-flex justify-content-center align-items-center mx-auto mb-3"
                  style="width:80px; height:80px; font-size:32px;">
-                🚿
+                👤
             </div>
 
             <h4 class="mb-4">Login</h4>
