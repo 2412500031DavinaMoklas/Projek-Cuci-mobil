@@ -14,7 +14,7 @@
 
 <!-- TOPBAR -->
 <nav class="navbar navbar-dark bg-primary px-4">
-    <span class="navbar-brand fw-bold">🚗 Automatic Car Wash System</span>
+    <span class="navbar-brand fw-bold">Automatic Car Wash System</span>
     <div class="d-flex align-items-center text-white">
         <i class="bi bi-bell me-3"></i>
         <i class="bi bi-person-circle fs-4"></i>
@@ -27,16 +27,16 @@
         <!-- SIDEBAR -->
         <aside class="col-md-2 bg-white border-end vh-100 p-3">
             <ul class="nav flex-column gap-2">
-                <li class="nav-item fw-bold text-primary">📊 Dashboard</li>
+                <li class="nav-item fw-bold text-primary">Dashboard</li>
 
-                <li class="nav-item mt-3">📁 Master Data</li>
+                <li class="nav-item mt-3">Master Data</li>
                 <li class="nav-item ms-3 text-muted">Services</li>
                 <li class="nav-item ms-3 text-muted">Members</li>
                 <li class="nav-item ms-3 text-muted">Staff</li>
-                <li class="nav-item ms-3 text-muted">Operational Goods</li>
+                <li class="nav-item ms-3 text-muted">Operational</li>
 
-                <li class="nav-item mt-3">💳 Cashier</li>
-                <li class="nav-item">📄 Reports</li>
+                <li class="nav-item mt-3">Transaksi</li>
+                <li class="nav-item">Reports</li>
             </ul>
         </aside>
 
