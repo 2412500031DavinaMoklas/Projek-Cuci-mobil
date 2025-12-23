@@ -3,8 +3,8 @@
 /writable
 Composer-Setup.exe
 
-*.htm
-*.html
+#*.htm
+#*.html
 fpdf.css
 
 /tests
