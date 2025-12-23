@@ -8,4 +8,9 @@ class Auth extends BaseController
     {
         return view('login_view');
     }
+     
+    public function process()
+    {
+        return redirect()->to(site_url('dashboard'));
+    }
 }

@@ -31,25 +31,21 @@
 
             <h4 class="mb-4">Login</h4>
 
-            <form>
+            <form action="<?= site_url('login/process') ?>" method="post">
                 <div class="input-group mb-3">
                     <span class="input-group-text">👤</span>
-                    <input type="text" class="form-control" placeholder="Username">
+                    <input type="text" name="username">
                 </div>
 
                 <div class="input-group mb-3">
                     <span class="input-group-text">🔒</span>
-                    <input type="password" class="form-control" placeholder="Password">
+                    <input type="password" name="password">
                 </div>
 
-                <div class="form-check mb-3 text-start">
-                    <input class="form-check-input" type="checkbox" checked>
-                    <label class="form-check-label">Remember Me</label>
-                </div>
-
-                <button class="btn btn-primary w-100">Login</button>
+                <button class="btn btn-primary w-50">Login</button>
             </form>
 
+  
             <a href="#" class="d-block mt-3 text-decoration-none">Forgot password?</a>
         </div>
     </div>
