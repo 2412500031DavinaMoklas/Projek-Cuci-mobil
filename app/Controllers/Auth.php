@@ -6,11 +6,16 @@ class Auth extends BaseController
 {
     public function login()
     {
-        return view('login_view');
+        return view('/login_view_wafa');
     }
-     
+
     public function process()
     {
-        return redirect()->to(site_url('dashboard'));
+        return redirect()->to('/dashboard');
+    }
+
+    public function logout()
+    {
+        return redirect()->to('/login');
     }
 }

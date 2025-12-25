@@ -35,7 +35,7 @@
                 <li class="nav-item ms-3 text-muted">Staff</li>
                 <li class="nav-item ms-3 text-muted">Operational</li>
 
-                <li class="nav-item mt-3">Transaksi</li>
+                <li class="nav-item mt-3">Transactions</li>
                 <li class="nav-item">Reports</li>
             </ul>
         </aside>
